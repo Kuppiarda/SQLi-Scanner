@@ -23,7 +23,7 @@ Python ile geliştirilen SQL Enjeksiyonu Zafiyeti Tarayıcısı
 1. [Python 3.10.6](https://www.python.org/downloads/release/python-3106/ "Python 3.10.6") sürümünü kurun.
 2. [git](https://git-scm.com/download/win "git") kurun. (Kurulum tercihine bağlı.)
 3. `git clone https://github.com/Kuppiarda/SQLi-Scanner.git` komutu ile ya da manuel olarak proje dosyalarını indirin.
-4.  ` pip install -r requirements.txt` komutu ile kütüphane gereksinimlerini kurun.
+4. `pip install -r requirements.txt` komutu ile kütüphane gereksinimlerini kurun.
 
 ## Kullanım
 1. `inputURLs.txt` klasörüne taramak istediğiniz URL'leri girin.
