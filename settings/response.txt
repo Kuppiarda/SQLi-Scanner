@@ -1,0 +1,31 @@
+You have an error in your SQL syntax; 
+check the manual that corresponds to your 
+MySQL server version for the right syntax
+ADODB.Command error
+[Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near
+Error converting data type nvarchar to bigint
+Server Error
+Error in subcategory
+you have an error in your sql syntax;
+warning: mysql
+quoted string not properly terminated
+MySQL Query fail
+Microsoft Access Driver
+Access Database Engine
+Microsoft JET Database Engine
+Syntax error
+query expression
+Microsoft OLE DB Provider for Oracle
+Sybase message
+System.Data.SQLite.SQLiteException
+<b>Warning</b>:  SQLite3
+unrecognized token:
+Unable to prepare statement:
+supplied argument is not a valid MySQL result resource
+ERROR:  syntax error
+Error Executing Database Query
+Unclosed quotation mark
+Error Occured While Processing Request
+Microsoft OLE DB Provider for ODBC Drivers Error
+Invalid Querystring
+VBScript Runtime
