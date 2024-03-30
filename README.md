@@ -40,5 +40,5 @@ Python ile geliştirilen SQL Enjeksiyonu Zafiyeti Tarayıcısı
 
 ## Son Söz
 
-**[TR] Sadece koruma ve akademik amaçlı kullanınız.**
-**[EN] Use only for protection and academic purposes.**
+**Sadece koruma ve akademik amaçlı kullanınız.<br />**
+**Use only for protection and academic purposes.**
